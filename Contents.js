@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 
 const imageList = [
-  { name: 'DETAILS:about the investors', url: './images/image 1.png' },
+  { name: 'DETAILS:about the investors', url: '#' },
   { name: 'DETAILS:about the investors', url: '#' },
   { name: 'DETAILS:about the investors', url: '#' },
   { name: 'DETAILS:about the investors', url: '#' },
