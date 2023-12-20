@@ -61,7 +61,7 @@
 }
 /*   -----------------------------------------------------------------------------  */
 
-.vertical-slider {
+.horizontal-slider {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -87,11 +87,12 @@
   opacity: 1;
 }
 
-.vertical-slider img {
+.horizontal-slider img {
   background-color: rgb(76, 75, 74);
   width: 17vw;
   height: 25vh;
   align-self: center;
+
 }
 .name {
   font-size: 1rem;
